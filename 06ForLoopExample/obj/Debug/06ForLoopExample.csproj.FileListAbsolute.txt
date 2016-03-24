@@ -1,0 +1,9 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\06ForLoopExample\bin\Debug\06ForLoopExample.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\06ForLoopExample\bin\Debug\06ForLoopExample.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\06ForLoopExample\bin\Debug\06ForLoopExample.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\06ForLoopExample\obj\Debug\06ForLoopExample.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\06ForLoopExample\obj\Debug\06ForLoopExample.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\06ForLoopExample\obj\Debug\06ForLoopExample.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\USEFULCODES\06ForLoopExample\bin\Debug\06ForLoopExample.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\06ForLoopExample\obj\Debug\06ForLoopExample.exe
+E:\VISUAL-STUDIO\USEFULCODES\06ForLoopExample\obj\Debug\06ForLoopExample.pdb

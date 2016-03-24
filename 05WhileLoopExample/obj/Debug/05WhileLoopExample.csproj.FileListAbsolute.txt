@@ -1,0 +1,8 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\05WhileLoopExample\bin\Debug\05WhileLoopExample.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\05WhileLoopExample\bin\Debug\05WhileLoopExample.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\05WhileLoopExample\bin\Debug\05WhileLoopExample.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\05WhileLoopExample\obj\Debug\05WhileLoopExample.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\05WhileLoopExample\obj\Debug\05WhileLoopExample.pdb
+E:\VISUAL-STUDIO\USEFULCODES\05WhileLoopExample\bin\Debug\05WhileLoopExample.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\05WhileLoopExample\obj\Debug\05WhileLoopExample.exe
+E:\VISUAL-STUDIO\USEFULCODES\05WhileLoopExample\obj\Debug\05WhileLoopExample.pdb
