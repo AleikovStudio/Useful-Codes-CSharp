@@ -1,0 +1,5 @@
+E:\VISUAL-STUDIO\USEFULCODES\16AddWhile\bin\Debug\16AddWhile.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\16AddWhile\bin\Debug\16AddWhile.exe
+E:\VISUAL-STUDIO\USEFULCODES\16AddWhile\bin\Debug\16AddWhile.pdb
+E:\VISUAL-STUDIO\USEFULCODES\16AddWhile\obj\Debug\16AddWhile.exe
+E:\VISUAL-STUDIO\USEFULCODES\16AddWhile\obj\Debug\16AddWhile.pdb

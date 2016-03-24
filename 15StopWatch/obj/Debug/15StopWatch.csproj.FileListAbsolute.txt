@@ -1,0 +1,5 @@
+E:\VISUAL-STUDIO\USEFULCODES\15StopWatch\bin\Debug\15StopWatch.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\15StopWatch\bin\Debug\15StopWatch.exe
+E:\VISUAL-STUDIO\USEFULCODES\15StopWatch\bin\Debug\15StopWatch.pdb
+E:\VISUAL-STUDIO\USEFULCODES\15StopWatch\obj\Debug\15StopWatch.exe
+E:\VISUAL-STUDIO\USEFULCODES\15StopWatch\obj\Debug\15StopWatch.pdb

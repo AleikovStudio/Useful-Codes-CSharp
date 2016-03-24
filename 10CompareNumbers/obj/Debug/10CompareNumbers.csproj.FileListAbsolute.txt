@@ -1,0 +1,8 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\10CompareNumbers\bin\Debug\10CompareNumbers.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\10CompareNumbers\bin\Debug\10CompareNumbers.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\10CompareNumbers\bin\Debug\10CompareNumbers.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\10CompareNumbers\obj\Debug\10CompareNumbers.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\10CompareNumbers\obj\Debug\10CompareNumbers.pdb
+E:\VISUAL-STUDIO\USEFULCODES\10CompareNumbers\bin\Debug\10CompareNumbers.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\10CompareNumbers\obj\Debug\10CompareNumbers.exe
+E:\VISUAL-STUDIO\USEFULCODES\10CompareNumbers\obj\Debug\10CompareNumbers.pdb

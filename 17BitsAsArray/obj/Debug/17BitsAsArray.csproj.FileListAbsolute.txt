@@ -1,0 +1,5 @@
+E:\VISUAL-STUDIO\USEFULCODES\17BitsAsArray\bin\Debug\17BitsAsArray.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\17BitsAsArray\bin\Debug\17BitsAsArray.exe
+E:\VISUAL-STUDIO\USEFULCODES\17BitsAsArray\bin\Debug\17BitsAsArray.pdb
+E:\VISUAL-STUDIO\USEFULCODES\17BitsAsArray\obj\Debug\17BitsAsArray.exe
+E:\VISUAL-STUDIO\USEFULCODES\17BitsAsArray\obj\Debug\17BitsAsArray.pdb
