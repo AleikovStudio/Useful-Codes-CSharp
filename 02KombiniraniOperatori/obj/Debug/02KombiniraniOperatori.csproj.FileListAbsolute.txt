@@ -1,0 +1,2 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\02KombiniraniOperatori\bin\Debug\02KombiniraniOperatori.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\02KombiniraniOperatori\bin\Debug\02KombiniraniOperatori.exe.config

@@ -1,0 +1,8 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\01ConvertIntToBinary\bin\Debug\01ConvertIntToBinary.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\01ConvertIntToBinary\bin\Debug\01ConvertIntToBinary.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\01ConvertIntToBinary\bin\Debug\01ConvertIntToBinary.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\01ConvertIntToBinary\obj\Debug\01ConvertIntToBinary.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\01ConvertIntToBinary\obj\Debug\01ConvertIntToBinary.pdb
+E:\VISUAL-STUDIO\USEFULCODES\01ConvertIntToBinary\bin\Debug\01ConvertIntToBinary.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\01ConvertIntToBinary\obj\Debug\01ConvertIntToBinary.exe
+E:\VISUAL-STUDIO\USEFULCODES\01ConvertIntToBinary\obj\Debug\01ConvertIntToBinary.pdb
