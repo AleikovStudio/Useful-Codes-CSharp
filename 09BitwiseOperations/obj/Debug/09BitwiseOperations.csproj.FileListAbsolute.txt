@@ -1,0 +1,12 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\09BitwiseOperations\bin\Debug\09BitwiseOperations.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\09BitwiseOperations\bin\Debug\09BitwiseOperations.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\09BitwiseOperations\bin\Debug\09BitwiseOperations.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\09BitwiseOperations\obj\Debug\09BitwiseOperations.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\09BitwiseOperations\obj\Debug\09BitwiseOperations.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\09BitwiseOperations\obj\Debug\09BitwiseOperations.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\USEFULCODES\09BitwiseOperations\bin\Debug\09BitwiseOperations.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\09BitwiseOperations\obj\Debug\09BitwiseOperations.exe
+E:\VISUAL-STUDIO\USEFULCODES\09BitwiseOperations\obj\Debug\09BitwiseOperations.pdb
+E:\VISUAL-STUDIO\USEFULCODES\09BitwiseOperations\bin\Debug\09BitwiseOperations.exe
+E:\VISUAL-STUDIO\USEFULCODES\09BitwiseOperations\bin\Debug\09BitwiseOperations.pdb
+E:\VISUAL-STUDIO\USEFULCODES\09BitwiseOperations\obj\Debug\09BitwiseOperations.csprojResolveAssemblyReference.cache

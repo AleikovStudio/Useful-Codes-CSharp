@@ -1,0 +1,9 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\08VavejdaneNDanniReadLine\bin\Debug\08VavejdaneNDanniReadLine.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\08VavejdaneNDanniReadLine\bin\Debug\08VavejdaneNDanniReadLine.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\08VavejdaneNDanniReadLine\bin\Debug\08VavejdaneNDanniReadLine.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\08VavejdaneNDanniReadLine\obj\Debug\08VavejdaneNDanniReadLine.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\08VavejdaneNDanniReadLine\obj\Debug\08VavejdaneNDanniReadLine.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\USEFULCODES\08VavejdaneNDanniReadLine\obj\Debug\08VavejdaneNDanniReadLine.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\USEFULCODES\08VavejdaneNDanniReadLine\bin\Debug\08VavejdaneNDanniReadLine.exe.config
+E:\VISUAL-STUDIO\USEFULCODES\08VavejdaneNDanniReadLine\obj\Debug\08VavejdaneNDanniReadLine.exe
+E:\VISUAL-STUDIO\USEFULCODES\08VavejdaneNDanniReadLine\obj\Debug\08VavejdaneNDanniReadLine.pdb
